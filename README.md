@@ -24,7 +24,7 @@ This project is based on machine learning and its algorithms which predicts trip
 
 I got to understand what drives the demand of the rides and how the prices vary with time and weather conditions. 
 
-My objective was to understand the factors that influence the price of a cab and to predict trip prices based on these factors and finally created a model for it and it was executing nicely.
+My objective was to understand the factors that influence the price of a cab and to predict trip prices based on these factors and finally created a model for it and it was working nicely.
 _________________________________ 
 
 ## Data Collected 
